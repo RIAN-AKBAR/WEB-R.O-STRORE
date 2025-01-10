@@ -12,11 +12,6 @@
     <div class="buton">
     <button class="button" onclick="redirectToFile()">untuk menu silahkan klik</button>  
 </div>
-    <script>  
-       function redirectToFile() {
-        //ganti hh.html dengan fail yang di tuju//
-        window.location.href = 'hh.html';
-       }
-    </script>  
+    <script src="script.js"></script>
 </body>  
 </html>
